@@ -1,0 +1,56 @@
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Add_Student.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Student.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Dashboard.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Advisor.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Project.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Student_Group.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Show_Student_Group.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Project_Advisor.resources
+F:\Final Year Management System\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+F:\Final Year Management System\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+F:\Final Year Management System\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Add_Student.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Dashboard.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Student.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Project.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Project_Advisor.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Student_Group.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Advisor.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Show_Student_Group.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Evaluation.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.Group_Evaluation.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.AssignProjectToGroup.resources
+F:\Final Year Management System\ProjectA\ProjectA\obj\Debug\ProjectA.FirstReport.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Add_Student.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.AssignProjectToGroup.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Dashboard.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.FirstReport.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Group_Evaluation.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Manage_Student.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Manage_Evaluation.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Manage_Project.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Manage_Project_Advisor.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Manage_Student_Group.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Manage_Advisor.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.Show_Student_Group.resources
+C:\Users\Muhammad Iqbal\Downloads\FYP-Evaluator-master\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
